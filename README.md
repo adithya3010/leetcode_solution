@@ -5,8 +5,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/adithya3010/leetcode_solution/tree/master/0031-next-permutation) |
+| [0073-set-matrix-zeroes](https://github.com/adithya3010/leetcode_solution/tree/master/0073-set-matrix-zeroes) |
 ## Two Pointers
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/adithya3010/leetcode_solution/tree/master/0031-next-permutation) |
+## Hash Table
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/adithya3010/leetcode_solution/tree/master/0073-set-matrix-zeroes) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/adithya3010/leetcode_solution/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
