@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/adithya3010/leetcode_solution/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/adithya3010/leetcode_solution/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/adithya3010/leetcode_solution/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/adithya3010/leetcode_solution/tree/master/0048-rotate-image) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/adithya3010/leetcode_solution/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/adithya3010/leetcode_solution/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/adithya3010/leetcode_solution/tree/master/0031-next-permutation) |
 | [0349-intersection-of-two-arrays](https://github.com/adithya3010/leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
@@ -47,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/adithya3010/leetcode_solution/tree/master/0015-3sum) |
 | [0349-intersection-of-two-arrays](https://github.com/adithya3010/leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/adithya3010/leetcode_solution/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
