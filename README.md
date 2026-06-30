@@ -10,14 +10,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/adithya3010/leetcode_solution/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/adithya3010/leetcode_solution/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/adithya3010/leetcode_solution/tree/master/0119-pascals-triangle-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/adithya3010/leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/adithya3010/leetcode_solution/tree/master/0031-next-permutation) |
+| [0349-intersection-of-two-arrays](https://github.com/adithya3010/leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/adithya3010/leetcode_solution/tree/master/0073-set-matrix-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/adithya3010/leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
 ## Matrix
 |  |
 | ------- |
@@ -33,4 +36,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/adithya3010/leetcode_solution/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/adithya3010/leetcode_solution/tree/master/0119-pascals-triangle-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/adithya3010/leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
+## Sorting
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/adithya3010/leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
