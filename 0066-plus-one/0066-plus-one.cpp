@@ -14,11 +14,9 @@ public:
                     }
                 }
                 if(nonNine==-1){
-                    digits[nonNine+1]=1;
-                    for(int i=nonNine+2;i<digits.size();i++){
-                        digits[i]=0;
-                    }
-                    digits.push_back(0);
+                    vector<int> ans(n+1, 0);
+                    ans[0] = 1;
+                    digits=ans;
                 }else{
                 digits[nonNine]++;
                 for(int i=nonNine+1;i<digits.size();i++){
