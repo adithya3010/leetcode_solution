@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/adithya3010/leetcode_solution/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/adithya3010/leetcode_solution/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/adithya3010/leetcode_solution/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/adithya3010/leetcode_solution/tree/master/0066-plus-one) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/adithya3010/leetcode_solution/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/adithya3010/leetcode_solution/tree/master/0031-next-permutation) |
 | [0349-intersection-of-two-arrays](https://github.com/adithya3010/leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
@@ -43,5 +45,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/adithya3010/leetcode_solution/tree/master/0015-3sum) |
 | [0349-intersection-of-two-arrays](https://github.com/adithya3010/leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
