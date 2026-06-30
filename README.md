@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/adithya3010/leetcode_solution/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/adithya3010/leetcode_solution/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/adithya3010/leetcode_solution/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/adithya3010/leetcode_solution/tree/master/0119-pascals-triangle-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -31,4 +32,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/adithya3010/leetcode_solution/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/adithya3010/leetcode_solution/tree/master/0119-pascals-triangle-ii) |
 <!---LeetCode Topics End-->
