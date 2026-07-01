@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/adithya3010/leetcode_solution/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/adithya3010/leetcode_solution/tree/master/0119-pascals-triangle-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/adithya3010/leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/adithya3010/leetcode_solution/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
 |  |
 | ------- |
