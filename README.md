@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/adithya3010/leetcode_solution/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/adithya3010/leetcode_solution/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/adithya3010/leetcode_solution/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/adithya3010/leetcode_solution/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/adithya3010/leetcode_solution/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/adithya3010/leetcode_solution/tree/master/0066-plus-one) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/adithya3010/leetcode_solution/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/adithya3010/leetcode_solution/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/adithya3010/leetcode_solution/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/adithya3010/leetcode_solution/tree/master/0031-next-permutation) |
 | [0349-intersection-of-two-arrays](https://github.com/adithya3010/leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/adithya3010/leetcode_solution/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/adithya3010/leetcode_solution/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/adithya3010/leetcode_solution/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/adithya3010/leetcode_solution/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/adithya3010/leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
