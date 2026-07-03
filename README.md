@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/adithya3010/leetcode_solution/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/adithya3010/leetcode_solution/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/adithya3010/leetcode_solution/tree/master/0073-set-matrix-zeroes) |
+| [0088-merge-sorted-array](https://github.com/adithya3010/leetcode_solution/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/adithya3010/leetcode_solution/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/adithya3010/leetcode_solution/tree/master/0119-pascals-triangle-ii) |
 | [0169-majority-element](https://github.com/adithya3010/leetcode_solution/tree/master/0169-majority-element) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/adithya3010/leetcode_solution/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/adithya3010/leetcode_solution/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/adithya3010/leetcode_solution/tree/master/0031-next-permutation) |
+| [0088-merge-sorted-array](https://github.com/adithya3010/leetcode_solution/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/adithya3010/leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/adithya3010/leetcode_solution/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/adithya3010/leetcode_solution/tree/master/0018-4sum) |
+| [0088-merge-sorted-array](https://github.com/adithya3010/leetcode_solution/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/adithya3010/leetcode_solution/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/adithya3010/leetcode_solution/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/adithya3010/leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
