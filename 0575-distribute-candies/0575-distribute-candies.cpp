@@ -5,11 +5,6 @@ public:
         for(int i=0;i<candyType.size();i++)mp[candyType[i]]++;
         int n=mp.size();
         int ceat=candyType.size()/2;
-        if(ceat-n>0){
-          return n;
-        }else{
-         return ceat;
-        }
-        return 0;
+        return min(n,ceat);
     }
 };
