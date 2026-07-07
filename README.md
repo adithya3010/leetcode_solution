@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/adithya3010/leetcode_solution/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/adithya3010/leetcode_solution/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/adithya3010/leetcode_solution/tree/master/0560-subarray-sum-equals-k) |
+| [0561-array-partition](https://github.com/adithya3010/leetcode_solution/tree/master/0561-array-partition) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/adithya3010/leetcode_solution/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/adithya3010/leetcode_solution/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
@@ -85,11 +86,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/adithya3010/leetcode_solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/adithya3010/leetcode_solution/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/adithya3010/leetcode_solution/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/adithya3010/leetcode_solution/tree/master/0561-array-partition) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/adithya3010/leetcode_solution/tree/master/0747-largest-number-at-least-twice-of-others) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/adithya3010/leetcode_solution/tree/master/0011-container-with-most-water) |
+| [0561-array-partition](https://github.com/adithya3010/leetcode_solution/tree/master/0561-array-partition) |
 ## Counting
 |  |
 | ------- |
@@ -111,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/adithya3010/leetcode_solution/tree/master/0506-relative-ranks) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/adithya3010/leetcode_solution/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
