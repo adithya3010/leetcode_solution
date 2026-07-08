@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/adithya3010/leetcode_solution/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/adithya3010/leetcode_solution/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/adithya3010/leetcode_solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/adithya3010/leetcode_solution/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/adithya3010/leetcode_solution/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/adithya3010/leetcode_solution/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/adithya3010/leetcode_solution/tree/master/0066-plus-one) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/adithya3010/leetcode_solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/adithya3010/leetcode_solution/tree/master/0035-search-insert-position) |
 | [0349-intersection-of-two-arrays](https://github.com/adithya3010/leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/adithya3010/leetcode_solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/adithya3010/leetcode_solution/tree/master/0704-binary-search) |
