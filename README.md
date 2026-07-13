@@ -131,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/adithya3010/leetcode_solution/tree/master/0561-array-partition) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/adithya3010/leetcode_solution/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
