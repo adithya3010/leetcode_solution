@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/adithya3010/leetcode_solution/tree/master/0020-valid-parentheses) |
 | [0500-keyboard-row](https://github.com/adithya3010/leetcode_solution/tree/master/0500-keyboard-row) |
 ## Heap (Priority Queue)
 |  |
@@ -137,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/adithya3010/leetcode_solution/tree/master/1291-sequential-digits) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/adithya3010/leetcode_solution/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
