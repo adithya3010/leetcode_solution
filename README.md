@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/adithya3010/leetcode_solution/tree/master/0020-valid-parentheses) |
 | [0500-keyboard-row](https://github.com/adithya3010/leetcode_solution/tree/master/0500-keyboard-row) |
+| [1021-remove-outermost-parentheses](https://github.com/adithya3010/leetcode_solution/tree/master/1021-remove-outermost-parentheses) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -150,4 +151,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/adithya3010/leetcode_solution/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/adithya3010/leetcode_solution/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
