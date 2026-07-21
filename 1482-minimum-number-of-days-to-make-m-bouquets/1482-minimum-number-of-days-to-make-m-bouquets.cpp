@@ -23,7 +23,7 @@ public:
       int high = *max_element(bloomDay.begin(), bloomDay.end());
       int minD=-1;
       while(low<=high){
-           int mid=(low+high)/2;
+          int mid = low+(high-low)/2;
            if(canMake(bloomDay,m,k,mid)){
             minD=mid;
             high=mid-1;
