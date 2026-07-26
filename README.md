@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/adithya3010/leetcode_solution/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/adithya3010/leetcode_solution/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/adithya3010/leetcode_solution/tree/master/0575-distribute-candies) |
+| [0628-maximum-product-of-three-numbers](https://github.com/adithya3010/leetcode_solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/adithya3010/leetcode_solution/tree/master/0704-binary-search) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/adithya3010/leetcode_solution/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0875-koko-eating-bananas](https://github.com/adithya3010/leetcode_solution/tree/master/0875-koko-eating-bananas) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/adithya3010/leetcode_solution/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/adithya3010/leetcode_solution/tree/master/0066-plus-one) |
+| [0628-maximum-product-of-three-numbers](https://github.com/adithya3010/leetcode_solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/adithya3010/leetcode_solution/tree/master/3536-maximum-product-of-two-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/adithya3010/leetcode_solution/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Dynamic Programming
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/adithya3010/leetcode_solution/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/adithya3010/leetcode_solution/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/adithya3010/leetcode_solution/tree/master/0561-array-partition) |
+| [0628-maximum-product-of-three-numbers](https://github.com/adithya3010/leetcode_solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/adithya3010/leetcode_solution/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [3536-maximum-product-of-two-digits](https://github.com/adithya3010/leetcode_solution/tree/master/3536-maximum-product-of-two-digits) |
 ## Greedy
