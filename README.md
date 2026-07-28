@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/adithya3010/leetcode_solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/adithya3010/leetcode_solution/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/adithya3010/leetcode_solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/adithya3010/leetcode_solution/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/adithya3010/leetcode_solution/tree/master/3536-maximum-product-of-two-digits) |
 ## Greedy
 |  |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/adithya3010/leetcode_solution/tree/master/0020-valid-parentheses) |
 | [0500-keyboard-row](https://github.com/adithya3010/leetcode_solution/tree/master/0500-keyboard-row) |
 | [1021-remove-outermost-parentheses](https://github.com/adithya3010/leetcode_solution/tree/master/1021-remove-outermost-parentheses) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/adithya3010/leetcode_solution/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/adithya3010/leetcode_solution/tree/master/0561-array-partition) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/adithya3010/leetcode_solution/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Enumeration
 |  |
 | ------- |
