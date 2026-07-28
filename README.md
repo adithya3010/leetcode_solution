@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/adithya3010/leetcode_solution/tree/master/1539-kth-missing-positive-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/adithya3010/leetcode_solution/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1901-find-a-peak-element-ii](https://github.com/adithya3010/leetcode_solution/tree/master/1901-find-a-peak-element-ii) |
+| [2951-find-the-peaks](https://github.com/adithya3010/leetcode_solution/tree/master/2951-find-the-peaks) |
 ## Two Pointers
 |  |
 | ------- |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/adithya3010/leetcode_solution/tree/master/1291-sequential-digits) |
+| [2951-find-the-peaks](https://github.com/adithya3010/leetcode_solution/tree/master/2951-find-the-peaks) |
 ## Stack
 |  |
 | ------- |
