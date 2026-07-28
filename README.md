@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/adithya3010/leetcode_solution/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/adithya3010/leetcode_solution/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/adithya3010/leetcode_solution/tree/master/0088-merge-sorted-array) |
+| [0151-reverse-words-in-a-string](https://github.com/adithya3010/leetcode_solution/tree/master/0151-reverse-words-in-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/adithya3010/leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/adithya3010/leetcode_solution/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Hash Table
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/adithya3010/leetcode_solution/tree/master/0020-valid-parentheses) |
+| [0151-reverse-words-in-a-string](https://github.com/adithya3010/leetcode_solution/tree/master/0151-reverse-words-in-a-string) |
 | [0500-keyboard-row](https://github.com/adithya3010/leetcode_solution/tree/master/0500-keyboard-row) |
 | [1021-remove-outermost-parentheses](https://github.com/adithya3010/leetcode_solution/tree/master/1021-remove-outermost-parentheses) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/adithya3010/leetcode_solution/tree/master/3517-smallest-palindromic-rearrangement-i) |
