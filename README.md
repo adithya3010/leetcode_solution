@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/adithya3010/leetcode_solution/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/adithya3010/leetcode_solution/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/adithya3010/leetcode_solution/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/adithya3010/leetcode_solution/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/adithya3010/leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/adithya3010/leetcode_solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/adithya3010/leetcode_solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/adithya3010/leetcode_solution/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/adithya3010/leetcode_solution/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/adithya3010/leetcode_solution/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/adithya3010/leetcode_solution/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/adithya3010/leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/adithya3010/leetcode_solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/adithya3010/leetcode_solution/tree/master/0414-third-maximum-number) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/adithya3010/leetcode_solution/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/adithya3010/leetcode_solution/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/adithya3010/leetcode_solution/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/adithya3010/leetcode_solution/tree/master/0242-valid-anagram) |
 | [0500-keyboard-row](https://github.com/adithya3010/leetcode_solution/tree/master/0500-keyboard-row) |
 | [1021-remove-outermost-parentheses](https://github.com/adithya3010/leetcode_solution/tree/master/1021-remove-outermost-parentheses) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/adithya3010/leetcode_solution/tree/master/3517-smallest-palindromic-rearrangement-i) |
