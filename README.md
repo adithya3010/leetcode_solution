@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/adithya3010/leetcode_solution/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/adithya3010/leetcode_solution/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/adithya3010/leetcode_solution/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/adithya3010/leetcode_solution/tree/master/0169-majority-element) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/adithya3010/leetcode_solution/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/adithya3010/leetcode_solution/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/adithya3010/leetcode_solution/tree/master/0066-plus-one) |
 | [0628-maximum-product-of-three-numbers](https://github.com/adithya3010/leetcode_solution/tree/master/0628-maximum-product-of-three-numbers) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/adithya3010/leetcode_solution/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/adithya3010/leetcode_solution/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/adithya3010/leetcode_solution/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/adithya3010/leetcode_solution/tree/master/0151-reverse-words-in-a-string) |
